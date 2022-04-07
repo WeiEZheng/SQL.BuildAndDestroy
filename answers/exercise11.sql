@@ -1,1 +1,1 @@
-mysql> SELECT * FROM Students ORDER BY CITY ASC;
+SELECT * FROM Students ORDER BY CITY ASC;

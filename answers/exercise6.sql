@@ -1,1 +1,1 @@
-mysql> ALTER TABLE Users ADD COLUMN Birthday DATE;
+ALTER TABLE Users ADD COLUMN Birthday DATE;

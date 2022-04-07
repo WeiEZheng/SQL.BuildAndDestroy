@@ -1,1 +1,1 @@
-mysql> CREATE SCHEMA myNewDB;
+CREATE SCHEMA myNewDB;

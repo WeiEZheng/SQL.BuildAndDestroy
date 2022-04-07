@@ -1,1 +1,1 @@
-mysql> UPDATE Students SET City = 'Edinburgh' WHERE Country = 'Scotland';
+UPDATE Students SET City = 'Edinburgh' WHERE Country = 'Scotland';

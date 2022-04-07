@@ -1,1 +1,1 @@
-mysql> TRUNCATE TABLE Users;
+TRUNCATE TABLE Users;

@@ -1,1 +1,1 @@
-mysql> DROP SCHEMA myNewDB;
+DROP SCHEMA myNewDB;

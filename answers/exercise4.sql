@@ -1,1 +1,1 @@
-mysql> DROP TABLE Users;
+DROP TABLE Users;

@@ -1,1 +1,1 @@
-mysql> SELECT * FROM Students WHERE City = 'Philadelphia' OR City = 'Trenton';
+SELECT * FROM Students WHERE City = 'Philadelphia' OR City = 'Trenton';

@@ -1,1 +1,1 @@
-mysql> DELETE FROM Students;
+DELETE FROM Students;
