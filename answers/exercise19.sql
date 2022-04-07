@@ -1,0 +1,1 @@
+mysql> DELETE FROM Students WHERE Country = 'Scotland';
