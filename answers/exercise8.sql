@@ -19,7 +19,7 @@ mysql> INSERT INTO Students (
     -> 'G13RB' ,
     -> 'Scotland');
 
-mysql> SELECT * from Students;
+mysql> SELECT * FROM Students;
     +-----------+-------------+-------------+---------+------------+----------+
     | StudentID | StudentNAME | Address     | City    | PostalCode | Country  |
     +-----------+-------------+-------------+---------+------------+----------+

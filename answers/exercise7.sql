@@ -1,1 +1,1 @@
-ALTER TABLE Users DROP COLUMN Birthday;
+mysql> ALTER TABLE Users DROP COLUMN Birthday;

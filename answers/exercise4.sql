@@ -1,1 +1,1 @@
-DROP TABLE Users;
+mysql> DROP TABLE Users;
