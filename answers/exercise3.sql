@@ -1,5 +1,4 @@
-mysql> CREATE SCHEMA myDB;
-mysql> CREATE TABLE myDB.Users (
+mysql> CREATE TABLE Users (
     -> UserID INTEGER PRIMARY KEY NOT NULL AUTO_INCREMENT,
     -> LastName VARCHAR(255),
     -> FirstName VARCHAR(255),
